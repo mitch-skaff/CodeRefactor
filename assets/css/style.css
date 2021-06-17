@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* update class hero to be a figure */
 figure {
     height: 800px;
     width: 100%;
@@ -69,12 +70,14 @@ figure {
     margin-left: 25px;
 }
 
+/* updated div class content to section */
 section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* updated the div class "benefits" to be just an aside element */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -86,6 +89,7 @@ aside {
     background-color: #2589bd;
 }
 
+/* consolidated the 3 class' */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -93,6 +97,7 @@ aside {
     color: #ffffff;
 }
 
+/* consolidated the 3 class' */
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3, {
@@ -100,6 +105,7 @@ aside {
     text-align: center;
 }
 
+/* consolidated the 3 class' */
 .benefit-lead img,
 .benefit-brand img, 
 .benefit-cost img {
@@ -108,6 +114,7 @@ aside {
     max-width: 150px;
 }
 
+/* consolidated the 3 class' */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -119,12 +126,14 @@ aside {
     color: #ffffff;
 }
 
+/* consolidated the 3 class' */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
 
+/* consolidated the 3 class' */
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
@@ -132,6 +141,7 @@ aside {
     font-size: 36px;
 }
 
+/* updated div class "footer" to simply be a footer element */
 footer {
     padding: 30px;
     clear: both;
