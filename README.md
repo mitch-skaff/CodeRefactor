@@ -1,2 +1,4 @@
 # CodeRefactor
-Homework 1 for UCF Bootcamp where we were asked to clean up the HTML semantic tags.
+A Static site using Semantic HTML5 and consolidated CSS3 with a focus on usability
+
+
